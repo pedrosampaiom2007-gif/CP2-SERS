@@ -9,10 +9,19 @@ Trabalho que consulta duas APIs públicas de energia/clima, organiza os dados e 
 | 1 — ANEEL | Classificação | Dá para identificar a fonte (Solar, Eólica ou Hidráulica) de um empreendimento a partir de potência e localização? |
 | 2 — Open-Meteo | Regressão | Qual a radiação solar horária (W/m²) em Petrolina (PE) dadas as condições do tempo e a hora? |
 
+## Integrantes
+
+| Nome | RM |
+|---|---|
+| Pedro Sampaio | _preencher_ |
+| Raul | _preencher_ |
+| Luan | _preencher_ |
+| Pedro Ribeiro | _preencher_ |
+
 ## Arquivos
 
 - `Aula_APIs_Energia_Renovavel_ML.ipynb` — notebook completo (consulta às APIs, análise, modelos e conclusões).
-- `aneel_classificacao_orange.csv` e `meteo_regressao_orange.csv` — gerados pelas células de exportação do notebook (ainda não versionados neste repositório; rode o notebook para criá-los). O notebook de classificação lê o CSV da ANEEL direto do repositório do professor.
+- `aneel_classificacao_orange.csv` e `meteo_regressao_orange.csv` — gerados pelas células de exportação do notebook (o da ANEEL já está versionado; o do Open-Meteo deve ser gerado rodando o notebook). O notebook de classificação lê o CSV da ANEEL direto do repositório do professor.
 
 ## Fontes e período dos dados
 
