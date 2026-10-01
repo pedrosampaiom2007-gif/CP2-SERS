@@ -21,7 +21,7 @@ Trabalho que consulta duas APIs públicas de energia/clima, organiza os dados e 
 ## Arquivos
 
 - `Aula_APIs_Energia_Renovavel_ML.ipynb` — notebook completo (consulta às APIs, análise, modelos e conclusões).
-- `aneel_classificacao_orange.csv` e `meteo_regressao_orange.csv` — gerados pelas células de exportação do notebook (o da ANEEL já está versionado; o do Open-Meteo deve ser gerado rodando o notebook). O notebook de classificação lê o CSV da ANEEL direto do repositório do professor.
+- `aneel_classificacao_orange.csv` e `meteo_regressao_orange.csv` — gerados pelas células de exportação do notebook (ambos versionados neste repositório). O notebook de classificação lê o CSV da ANEEL direto do repositório do professor.
 
 ## Fontes e período dos dados
 
