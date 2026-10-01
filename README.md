@@ -13,10 +13,10 @@ Trabalho que consulta duas APIs públicas de energia/clima, organiza os dados e 
 
 | Nome | RM |
 |---|---|
-| Pedro Sampaio | _preencher_ |
-| Raul | _preencher_ |
-| Luan | _preencher_ |
-| Pedro Ribeiro | _preencher_ |
+| Pedro Sampaio Mochnacs Arruda | 573522 |
+| Raul Sampaio Mochnacs Arruda | 573523 |
+| Luan de Araujo Carneiro | 573691 |
+| Pedro Ribeiro Lopes | 570083 |
 
 ## Arquivos
 
